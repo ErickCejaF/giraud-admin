@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ll_main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    android:orientation="vertical"
+    tools:context=".Activities.MainActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:src="@mipmap/icn_logo" />
+
+            <ImageView
+                android:id="@+id/iv_back"
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:background="?attr/selectableItemBackground"
+                android:scaleType="center"
+                android:src="@drawable/md_nav_back"
+                android:tint="@android:color/black" />
+
+        </RelativeLayout>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.viewpager.widget.ViewPager
+                android:id="@+id/vp_references"
+                android:layout_width="match_parent"
+                android:layout_height="150dp">
+
+                <com.google.android.material.tabs.TabLayout
+                    android:id="@+id/tb_items"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:tabBackground="@drawable/tab_selector"
+                    app:tabGravity="center"
+                    app:tabIndicatorHeight="0dp"
+                    />
+
+            </androidx.viewpager.widget.ViewPager>
+
+            <TextView
+                android:id="@+id/tv_revalidated"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:background="@drawable/background_revalidated"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center"
+                android:text="Revalidado"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_start"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:background="@drawable/background_start_trip"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center"
+                android:text="Inicio Despacho"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+
+
+            <TextView
+                android:id="@+id/tv_late"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:background="@drawable/background_late"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center"
+                android:text="Rojo"
+                android:textColor="@android:color/black" />
+
+            <TextView
+                android:id="@+id/tv_despachado"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:background="@drawable/background_despachado"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center"
+                android:text="Despachado"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_in_route"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:background="@drawable/background_in_route"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center"
+                android:text="En Ruta"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+
+            <TextView
+                android:id="@+id/tv_delivered"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:background="@drawable/background_delivered"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center"
+                android:text="Entregado"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>

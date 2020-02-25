@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "410011734214",
+    "firebase_url": "https://giraud-admin.firebaseio.com",
+    "project_id": "giraud-admin",
+    "storage_bucket": "giraud-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410011734214:android:5effa108b1376f96",
+        "android_client_info": {
+          "package_name": "mx.com.giraud.giraudadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410011734214-vlvbd4che8t8g3ts7h09eaf093nnchda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.com.giraud.giraudadmin",
+            "certificate_hash": "1cfbfc9c2c9f78447230ab3e63884af398904839"
+          }
+        },
+        {
+          "client_id": "410011734214-0rf5ka4h4am3pb3f77cg9lt9kqbbjn5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2C4jqxab0ExokOj3Gyt8oKbRw-OTGvR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410011734214-0rf5ka4h4am3pb3f77cg9lt9kqbbjn5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

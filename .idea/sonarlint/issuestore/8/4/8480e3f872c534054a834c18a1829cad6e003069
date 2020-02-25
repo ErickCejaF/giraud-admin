@@ -1,0 +1,18 @@
+
+tsquid:UselessImportCheck	"DRemove this unused import 'android.graphics.drawable.ColorDrawable'.(ÖŸÂ«øÿÿÿÿ8‚¿²øÇ-
+€squid:UselessImportCheck"PRemove this unused import 'mx.com.giraud.giraudadmin.Activities.DetailActivity'.(şµû“ıÿÿÿÿ8ˆ‘»¼Ë-
+esquid:UselessImportCheck":Remove this unused import 'android.widget.CompoundButton'.(®½¤Ş8€ÈäÊ-
+dsquid:UselessImportCheck"4Remove this unused import 'android.app.AlertDialog'.(ª½øşüÿÿÿÿ8Ğ°¶øÇ-
+]squid:UselessImportCheck"3Remove this unused import 'android.content.Intent'.(³ğ‹G8ˆ‘»¼Ë-
+csquid:UselessImportCheck"3Remove this unused import 'android.graphics.Color'.(øãíòşÿÿÿÿ8âÖƒ¼Ë-
+ squid:S1319/"}The type of the "selectedOperations" object should be an interface such as "List" rather than the implementation "ArrayList".(†òæÙüÿÿÿÿ8ÖÖ¥æÊ-
+usquid:UselessImportCheck"ERemove this unused import 'mx.com.giraud.giraudadmin.SplashActivity'.(¸ÃÖšùÿÿÿÿ8àáŞŸÈ-
+squid:UselessImportCheck"VRemove this unused import 'com.google.android.material.bottomsheet.BottomSheetDialog'.(ùÎœ8âÖƒ¼Ë-
+5squid:S2176y"Rename this class.(Â×Öúÿÿÿÿ8Ÿ¢Ô‚Í-
+“squid:S1319."uThe type of the "operations" object should be an interface such as "List" rather than the implementation "ArrayList".(í•ü8§ßŸ÷Ç-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ãÿÿÿÿÿ
+ysquid:UselessImportCheck"ORemove this unused import 'mx.com.giraud.giraudadmin.Activities.LoginActivity'.(ÊëÓ68àáŞŸÈ-
+hsquid:UselessImportCheck"8Remove this unused import 'android.app.ActivityOptions'.(ş­¡½ùÿÿÿÿ8æ£¤¤È-
+\squid:UselessImportCheck"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ8‘¶Ë‚Í-
+"squid:ClassVariableVisibilityCheck&"TMake activity a static final constant or non-public and provide accessors if needed.(†°“õúÿÿÿÿ8§Õ øÇ-
+Hsquid:S1068"*Remove this unused "llItem" private field.(ô–Àú8Ÿ¢Ô‚Í-

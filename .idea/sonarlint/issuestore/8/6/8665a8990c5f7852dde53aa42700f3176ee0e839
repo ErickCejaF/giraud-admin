@@ -1,0 +1,19 @@
+
+Hsquid:S1659""*Declare "tvDespachado" on a separate line.(ıÆÃ8¡œó È-
+vsquid:S1450""XRemove the "tvInRoute" field and declare it as a local variable in the relevant methods.(ıÆÃ8¡œó È-
+xsquid:S1450""ZRemove the "tvDelivered" field and declare it as a local variable in the relevant methods.(ıÆÃ8¡œó È-
+]squid:S1155Œ">Use isEmpty() to check whether the collection is empty or not.(—Œ8Ø¹Œ®Í-
+lsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(—§Ü¦8Ù‘´£È-
+zsquid:S1450""\Remove the "tvRevalidated" field and declare it as a local variable in the relevant methods.(ıÆÃ8½´ŞÀÉ-
+tsquid:S1450""VRemove the "tvStart" field and declare it as a local variable in the relevant methods.(ıÆÃ8¡œó È-
+hsquid:UselessImportCheck	"8Remove this unused import 'android.widget.LinearLayout'.(çîšçúÿÿÿÿ8Ø¾À¼Ë-
+Bsquid:S1659""$Declare "tvLate" on a separate line.(ıÆÃ8¡œó È-
+xsquid:S1450!"URemove the "ivBack" field and declare it as a local variable in the relevant methods.(ıº™Òøÿÿÿÿ8¡œó È-
+ysquid:S1450""[Remove the "tvDespachado" field and declare it as a local variable in the relevant methods.(ıÆÃ8¡œó È-
+Esquid:S1659""'Declare "tvInRoute" on a separate line.(ıÆÃ8¡œó È-
+Gsquid:S1659"")Declare "tvDelivered" on a separate line.(ıÆÃ8¡œó È-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ»Â…
+ssquid:S1450""URemove the "tvLate" field and declare it as a local variable in the relevant methods.(ıÆÃ8¡œó È-
+Isquid:S1659""+Declare "tvRevalidated" on a separate line.(ıÆÃ8½´ŞÀÉ-
+squid:S1192@"cDefine a constant instead of duplicating this literal "Por favor agrega tus observaciones" 4 times.(ÌıÎÖ8š—®Í-
+ssquid:UselessImportCheck"HRemove this unused import 'mx.com.giraud.giraudadmin.Utils.WebServices'.(¶®ç«8¾‘ù¢È-

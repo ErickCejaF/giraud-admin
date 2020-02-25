@@ -1,0 +1,6 @@
+
+˜squid:S1319"uThe type of the "operations" object should be an interface such as "List" rather than the implementation "ArrayList".(ˆª¸ıùÿÿÿÿ8±ÔåÊ-
+tsquid:UselessImportCheck"IRemove this unused import 'androidx.appcompat.widget.AppCompatImageView'.(’©¤ù8¤»§åÊ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ãÿÿÿÿÿ
+csquid:UselessImportCheck"3Remove this unused import 'android.text.TextUtils'.(û˜½Õøÿÿÿÿ8¤»§åÊ-
+ksquid:UselessImportCheck"@Remove this unused import 'androidx.viewpager.widget.ViewPager'.(¨Ù›æ8ÂÄ®åÊ-

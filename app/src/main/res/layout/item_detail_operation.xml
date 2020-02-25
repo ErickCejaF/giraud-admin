@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="15dp">
+
+
+    <TextView
+        android:id="@+id/tv_reference"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:paddingTop="10dp"
+        android:text="G4038192"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/tv_enterprise"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:paddingStart="80dp"
+        android:paddingEnd="80dp"
+        android:paddingBottom="20dp"
+        android:text="SERVICIOS PECUARIOS DE OCCIDENTE SA DE CV"
+        android:textAlignment="center"
+        android:textSize="15sp" />
+
+
+</LinearLayout>
